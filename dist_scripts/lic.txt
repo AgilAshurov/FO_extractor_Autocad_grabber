@@ -1,0 +1,5 @@
+FO extractor license file
+--------------------------------------------------
+LIC_EXP_DATE=2024-12-13
+--------------------------------------------------
+grMBQdv2jBTXiW59TYStXRiaP8Dm+gHwuUe5KKydkPX+Y78Y6tK0s9yK6k7REfpcC8hyJawXU0F9zfyBTjg5ew==

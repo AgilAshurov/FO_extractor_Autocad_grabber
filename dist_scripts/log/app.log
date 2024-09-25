@@ -1,0 +1,36 @@
+2024-07-23 14:54:55,192 select error: could not convert string to float: ''
+2024-07-23 14:59:59,559 select error: could not convert string to float: ''
+2024-07-23 15:00:41,179 select error: could not convert string to float: ''
+2024-07-23 15:02:59,487 select error: could not convert string to float: ''
+2024-07-24 16:17:50,323 select error: <unknown>.textString
+2024-07-24 16:18:26,484 select error: invalid literal for int() with base 10: '\\pxt0;63'
+2024-07-24 16:18:39,921 select error: invalid literal for int() with base 10: '\\pxt0;63'
+2024-07-24 16:19:13,590 select error: invalid literal for int() with base 10: '\\pxt0;42'
+2024-07-24 16:20:49,392 select error: invalid literal for int() with base 10: '\\pxt0;42'
+2024-07-24 16:22:10,938 select error: no doc
+2024-07-24 16:22:20,048 select error: invalid literal for int() with base 10: '\\pxt0;42'
+2024-07-24 16:23:21,787 select error: (-2147417846, 'Фильтр сообщений выдал диагностику о занятости приложения.', None, None)
+2024-07-24 16:23:40,426 select error: (-2147417846, 'Фильтр сообщений выдал диагностику о занятости приложения.', None, None)
+2024-07-24 16:35:43,774 select error: selection error
+2024-07-24 17:15:25,856 select error: selection error
+2024-07-24 17:15:27,837 select error: selection error
+2024-07-24 17:15:32,260 select error: selection error
+2024-07-24 17:15:42,001 select error: invalid literal for int() with base 10: '\\pxt1;29'
+2024-07-24 17:17:40,214 select error: <unknown>.textString
+2024-07-24 17:18:49,616 select error: (-2147417846, 'Фильтр сообщений выдал диагностику о занятости приложения.', None, None)
+2024-07-24 17:18:59,336 select error: (-2147417846, 'Фильтр сообщений выдал диагностику о занятости приложения.', None, None)
+2024-07-24 17:19:16,658 select error: (-2147417846, 'Фильтр сообщений выдал диагностику о занятости приложения.', None, None)
+2024-07-24 17:19:25,047 select error: <unknown>.textString
+2024-07-24 17:19:54,730 select error: (-2147417846, 'Фильтр сообщений выдал диагностику о занятости приложения.', None, None)
+2024-07-24 17:22:30,914 select error: (-2147417846, 'Фильтр сообщений выдал диагностику о занятости приложения.', None, None)
+2024-07-24 17:23:17,845 select error: selection error
+2024-07-24 17:24:49,103 select error: (-2147417846, 'Фильтр сообщений выдал диагностику о занятости приложения.', None, None)
+2024-07-24 17:25:17,165 select error: (-2147417846, 'Фильтр сообщений выдал диагностику о занятости приложения.', None, None)
+2024-07-24 17:25:25,603 select error: (-2147417846, 'Фильтр сообщений выдал диагностику о занятости приложения.', None, None)
+2024-07-24 17:28:18,734 select error: (-2147417846, 'Фильтр сообщений выдал диагностику о занятости приложения.', None, None)
+2024-07-24 17:31:01,059 select error: (-2147417846, 'Фильтр сообщений выдал диагностику о занятости приложения.', None, None)
+2024-07-24 17:31:39,718 select error: <unknown>.textString
+2024-07-24 17:32:11,402 select error: (-2147417846, 'Фильтр сообщений выдал диагностику о занятости приложения.', None, None)
+2024-07-24 17:35:53,087 select error: (-2147417846, 'Фильтр сообщений выдал диагностику о занятости приложения.', None, None)
+2024-07-24 17:38:21,352 select error: (-2147417846, 'Фильтр сообщений выдал диагностику о занятости приложения.', None, None)
+2024-07-24 17:41:32,368 select error: (-2147417846, 'Фильтр сообщений выдал диагностику о занятости приложения.', None, None)

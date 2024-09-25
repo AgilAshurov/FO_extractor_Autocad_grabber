@@ -1,0 +1,6 @@
+PySide6-Essentials==6.7.1
+openpyxl==3.1.4
+pywin32==306
+acad-extractor==1.0.9
+pyproj==3.6.1
+pycryptodome==3.20.0
